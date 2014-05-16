@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6374" started-at="2014-05-16T20:10:55Z" finished-at="2014-05-16T20:11:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6374" started-at="2014-05-16T20:10:55Z" finished-at="2014-05-16T20:11:02Z">
+      <class name="org.vinit.sampleTest.GmailPageOpen">
+        <test-method status="PASS" signature="thisIsFirstTest()[pri:0, instance:org.vinit.sampleTest.GmailPageOpen@3d27da4b]" name="thisIsFirstTest" duration-ms="6333" started-at="2014-05-17T01:40:55Z" finished-at="2014-05-17T01:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thisIsFirstTest -->
+      </class> <!-- org.vinit.sampleTest.GmailPageOpen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
