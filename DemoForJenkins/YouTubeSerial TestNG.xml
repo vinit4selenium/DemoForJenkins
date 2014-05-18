@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- ?xml version="1.0" encoding="UTF-8"?> -->
+<suite name="YouTubeSerial TestNG">
+
+
+<test name="test1">
+<classes>
+	<class name="org.vinit.sampleTest.GmailPageOpen"/>
+</classes>
+</test>
+
+
+</suite>
