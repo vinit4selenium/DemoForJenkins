@@ -7,6 +7,7 @@
 	<classes>
 	<!-- This testing -->
 	<class name="org.vinit.sampleTest.GmailPageOpen"/>
+	<class name="org.vinit.sampleTest.GmailTestForFailing"/>
 	</classes>
 </test>
 
