@@ -28,7 +28,7 @@
         <version>2.13</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>YouTubeSerial TestNG.xml</suiteXmlFile>
+            <suiteXmlFile>YouTubeSerialTestNG.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
