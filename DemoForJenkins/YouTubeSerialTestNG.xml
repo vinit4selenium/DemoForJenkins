@@ -4,9 +4,10 @@
 
 
 <test name="test1">
-<classes>
+	<classes>
+	<!-- This testing -->
 	<class name="org.vinit.sampleTest.GmailPageOpen"/>
-</classes>
+	</classes>
 </test>
 
 
